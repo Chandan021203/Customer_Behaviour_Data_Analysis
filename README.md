@@ -3,7 +3,7 @@ Overview
 
 This project analyzes 3,900 customer purchases to understand shopping behavior, revenue trends, and loyalty patterns. The goal is to help businesses improve marketing, product strategy, and customer engagement.
 
-Dataset
+# Dataset
 
 Rows: 3,900
 
@@ -11,11 +11,11 @@ Columns: 18
 
 Key fields: Age, Gender, Location, Item, Category, Amount, Discount, Review Rating, Subscription Status, Shipping Type.
 
-Tools
+# Tools
 
 Python, Pandas, NumPy, MySQL, SQL, Power BI, Gamma.
 
-Workflow
+# Workflow
 
 Load & clean data in Python
 
@@ -27,11 +27,11 @@ Build Power BI dashboard
 
 Prepare report & presentation using Gamma
 
-Dashboard
+# Dashboard
 
 Power BI dashboard shows KPIs like total customers, average purchase value, average rating, product and age-group wise revenue.
 
-Results
+# Results
 
 Male customers generate higher revenue than female customers.
 
