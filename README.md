@@ -1,5 +1,5 @@
 # Customer_Behaviour_Data_Analysis
-Overview
+# Overview
 
 This project analyzes 3,900 customer purchases to understand shopping behavior, revenue trends, and loyalty patterns. The goal is to help businesses improve marketing, product strategy, and customer engagement.
 
@@ -13,7 +13,7 @@ Key fields: Age, Gender, Location, Item, Category, Amount, Discount, Review Rati
 
 # Tools
 
-Python, Pandas, NumPy, MySQL, SQL, Power BI, Gamma.
+Python, Pandas, MySQL, SQL, Power BI.
 
 # Workflow
 
